@@ -42,4 +42,9 @@
     "apps/*",
     "packages/*"
   ]
+},
+{
+  "ignorePatterns": [
+    "node_modules/@mui/**/*.js"
+  ]
 }
